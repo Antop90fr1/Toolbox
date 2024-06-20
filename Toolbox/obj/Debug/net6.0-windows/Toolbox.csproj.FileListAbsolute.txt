@@ -1,0 +1,54 @@
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\Toolbox.exe
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\Toolbox.deps.json
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\Toolbox.runtimeconfig.json
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\Toolbox.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\Toolbox.pdb
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.AssemblyReference.cache
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.GenerateResource.cache
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.AssemblyInfoInputs.cache
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.AssemblyInfo.cs
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\refint\Toolbox.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.pdb
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.genruntimeconfig.cache
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\ref\Toolbox.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.Window.resources
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.Properties.Resources.resources
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\thier\Desktop\Toolbox\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.CopyComplete
+C:\Users\thier\Desktop\Toolbox\Toolbox\bin\Debug\net6.0-windows\WindowsInput.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\Toolbox.exe
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\Toolbox.deps.json
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\Toolbox.runtimeconfig.json
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\Toolbox.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\Toolbox.pdb
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\WindowsInput.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.AssemblyReference.cache
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.Window.resources
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.Properties.Resources.resources
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.GenerateResource.cache
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.AssemblyInfoInputs.cache
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.AssemblyInfo.cs
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.CoreCompileInputs.cache
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.csproj.CopyComplete
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\refint\Toolbox.dll
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.pdb
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\Toolbox.genruntimeconfig.cache
+C:\Users\thier\Desktop\Toolbox - Copie\Toolbox\obj\Debug\net6.0-windows\ref\Toolbox.dll

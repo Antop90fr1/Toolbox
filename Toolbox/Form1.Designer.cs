@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Window));
             volumeUp = new Button();
             volumeDown = new Button();
@@ -39,7 +40,11 @@
             settingsButton = new Button();
             calculatorButton = new Button();
             openFileDialog1 = new OpenFileDialog();
+            notepadButton = new Button();
+            colorDialog1 = new ColorDialog();
             pictureBox1 = new PictureBox();
+            timer1 = new System.Windows.Forms.Timer(components);
+            timer2 = new System.Windows.Forms.Timer(components);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -52,6 +57,8 @@
             volumeUp.TabIndex = 0;
             volumeUp.UseVisualStyleBackColor = true;
             volumeUp.Click += volumeUp_Click;
+            volumeUp.MouseDown += volumeUp_MouseDown;
+            volumeUp.MouseUp += volumeUp_MouseUp;
             // 
             // volumeDown
             // 
@@ -62,6 +69,8 @@
             volumeDown.TabIndex = 1;
             volumeDown.UseVisualStyleBackColor = true;
             volumeDown.Click += volumeDown_Click;
+            volumeDown.MouseDown += volumeDown_MouseDown;
+            volumeDown.MouseUp += volumeDown_MouseUp;
             // 
             // volumeMute
             // 
@@ -140,25 +149,47 @@
             openFileDialog1.SupportMultiDottedExtensions = true;
             openFileDialog1.FileOk += openFileDialog1_FileOk;
             // 
+            // notepadButton
+            // 
+            notepadButton.Image = (Image)resources.GetObject("notepadButton.Image");
+            notepadButton.Location = new Point(293, 82);
+            notepadButton.Name = "notepadButton";
+            notepadButton.Size = new Size(63, 64);
+            notepadButton.TabIndex = 11;
+            notepadButton.UseVisualStyleBackColor = true;
+            notepadButton.Click += notepadButton_Click;
+            // 
             // pictureBox1
             // 
-            pictureBox1.BackColor = Color.SlateGray;
-            pictureBox1.Location = new Point(1, -2);
+            pictureBox1.Location = new Point(-4, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(389, 228);
-            pictureBox1.TabIndex = 10;
+            pictureBox1.Size = new Size(371, 161);
+            pictureBox1.TabIndex = 12;
             pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
+            pictureBox1.Click += pictureBox_Click;
             pictureBox1.DoubleClick += pictureBox;
+            pictureBox1.MouseDown += pictureBox1_MouseDown;
+            pictureBox1.MouseEnter += pictureBox1_MouseEnter;
+            pictureBox1.MouseLeave += pictureBox1_MouseLeave;
+            // 
+            // timer1
+            // 
+            timer1.Tick += timer1_Tick;
+            // 
+            // timer2
+            // 
+            timer2.Tick += timer2_Tick;
             // 
             // Window
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             AutoSize = true;
-            AutoValidate = AutoValidate.EnableAllowFocusChange;
+            AutoValidate = AutoValidate.EnablePreventFocusChange;
             BackColor = Color.SlateGray;
-            ClientSize = new Size(367, 225);
+            ClientSize = new Size(364, 160);
+            ControlBox = false;
+            Controls.Add(notepadButton);
             Controls.Add(calculatorButton);
             Controls.Add(settingsButton);
             Controls.Add(muteButton);
@@ -170,13 +201,18 @@
             Controls.Add(volumeUp);
             Controls.Add(pictureBox1);
             ForeColor = SystemColors.ControlText;
+            FormBorderStyle = FormBorderStyle.None;
             Name = "Window";
-            SizeGripStyle = SizeGripStyle.Show;
+            ShowIcon = false;
+            ShowInTaskbar = false;
             StartPosition = FormStartPosition.Manual;
             Text = "ToolBox";
             TopMost = true;
             Load += Window_Load;
             DoubleClick += Window_DoubleClick;
+            MouseDown += Window_MouseDown;
+            MouseEnter += Window_MouseEnter;
+            MouseLeave += Window_MouseLeave;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
@@ -197,5 +233,10 @@
         private Button button1;
         private PictureBox pictureBox1;
         private Button muteButton;
+        private Button notepadButton;
+        private ColorDialog colorDialog1;
+        private PictureBox pictureBox2;
+        private System.Windows.Forms.Timer timer1;
+        private System.Windows.Forms.Timer timer2;
     }
 }
